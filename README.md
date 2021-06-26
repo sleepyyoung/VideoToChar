@@ -30,4 +30,3 @@ B站视频地址：[程序猿是怎样回忆2018年夏天的](https://www.bilibi
 
 &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[视频字符化_原色](https://www.bilibili.com/video/BV1DC4y1p78o)
 
-## 目前只是一个雏形，只可以实现代码将视频字符化，后续会添加GUI(PyQt5)，敬请期待
