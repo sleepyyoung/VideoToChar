@@ -4,9 +4,9 @@
 
 涉及到的第三方库有：
 
-```
-opencv`，`PIL`，`moviepy`，`theading
-```
+
+`opencv`，`PIL`，`moviepy`，`theading`
+
 
 没有安装的请自行pip安装
 
